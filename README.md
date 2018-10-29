@@ -1,1 +1,2 @@
-# aula-17-pronta
+# 17-Modelando_Volatilidades
+MOdelos GARCH Aplicados
